@@ -1,0 +1,3 @@
+C:/Users/shr4m/CLionProjects/LR 9/cmake-build-debug/CMakeFiles/LR_9.dir
+C:/Users/shr4m/CLionProjects/LR 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shr4m/CLionProjects/LR 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
